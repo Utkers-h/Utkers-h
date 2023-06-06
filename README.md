@@ -1,7 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Utkersh%20Uppal,%20A%20Programmer%20👨🏻‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Utkersh Uppal</h1>
 <h3 align="center">I am an aspiring web developer and a passionate learner, eager to dive into the world of coding and explore the vast possibilities it offers, with a zeal of learning techy stuff.</h3>
-<img class="rounded-corners"  align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img class="rounded-corners"  align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"><br>
+
 
 - 🌱 I’m currently learning **Web development along with DSA.**
 
